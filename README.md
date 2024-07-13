@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 <!--
-**swh9534/swh9534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Blueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=swh9534&show_icons=true&theme=tokyonight)
-
-
-
 -->
+
+<a href="mailto:asw9234hi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@blueno/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
+
+## 📫Contact
+---
+
+## Internships
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=swh9534&show_icons=true&theme=tokyonight&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swh9534&layout=compact&theme=tokyonight">

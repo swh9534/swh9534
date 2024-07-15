@@ -2,6 +2,7 @@
 
 **I am a university student majoring in deep learning and machine learning.**<br/>
 **My primary interest lies in large language models and generative AI.**<br/>
+[CV_신우현](https://github.com/swh9534/swh9534/blob/main/CV_%EC%8B%A0%EC%9A%B0%ED%98%84.pdf)
 
 ## 📫 Contact
 <a href="mailto:asw9234hi@gmail.com" target="_blank">

@@ -28,10 +28,12 @@ Here is my CV for your reference!
 - **Daejin High School** (2016.03 ~ 2019.02)
 
 ## 📌Projects📌
+[![image](https://github.com/user-attachments/assets/f96e4344-879e-4231-a530-85f5395f4bdd)](https://github.com/swh9534/ProcessTree-Embedding/tree/main)
+[![image](https://github.com/user-attachments/assets/806183a5-ae8a-4074-825b-4e62fdb9a4f5)](https://github.com/swh9534/CP-Model/tree/main)
+
+
 <div>
-
 ## 🔭Skills🔭
-
   ### 💻 Programming Language
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/> 

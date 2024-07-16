@@ -1,32 +1,39 @@
-## 👋 About Me
+## 👋About Me👋
 
 **I am a university student majoring in deep learning and machine learning.**<br/>
-**My primary interest lies in large language models and generative AI.**<br/>
+**My primary interest lies in large language models and generative AI.**<br/><br/>
+
+Here is my CV for your reference! 
 [CV_신우현](https://github.com/swh9534/swh9534/blob/main/CV_%EC%8B%A0%EC%9A%B0%ED%98%84.pdf)
 
-## 📫 Contact
+## 📫Contact📫
+<div>
 <a href="mailto:asw9234hi@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-</a>
+</a> 
 <a href="https://velog.io/@blueno/posts" target="_blank">
   <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
+</a> 
+<a href="​https://www.instagram.com/blueno84" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-5851DB?style=flat&logo=instagram&logoColor=white"/>
 </a>
+</div>
 
-## 🏆 Career
+
+## 🏆Career🏆
 - **Research Student** in PADA Lab, Kwangwoon University (2024.01 ~)
 
-## 🎓 Educations
+## 🎓Educations🎓
 - **Kwangwoon University** (2019.03 ~)
 - **Daejin High School** (2016.03 ~ 2019.02)
 
-## 📌Projects
+## 📌Projects📌
 <div>
 
-## 🔭Skills
+## 🔭Skills🔭
 
   ### 💻 Programming Language
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-276DC3?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/> 
  
   ### 📚 Stacks
@@ -54,7 +61,7 @@
 
  </div>
  
-## 🌱Github
+## 🌱Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=swh9534&show_icons=true&theme=tokyonight&rank_icon=github"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swh9534&layout=compact&theme=tokyonight">
 
 

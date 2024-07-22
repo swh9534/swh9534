@@ -4,7 +4,8 @@
 **My primary interest lies in large language models and generative AI.**<br/><br/>
 
 Here is my CV for your reference! 
-[CV_신우현](https://github.com/swh9534/swh9534/blob/main/CV_%EC%8B%A0%EC%9A%B0%ED%98%84.pdf)
+[CV](https://github.com/swh9534/swh9534/blob/main/CV_%EC%8B%A0%EC%9A%B0%ED%98%84.pdf),
+[Notion](https://smoggy-acrylic-738.notion.site/AI-Engineer-1b4940e36cf94afe8dcd8ce3b12c6f1a)
 
 ## 📫Contact📫
 <div>

@@ -22,15 +22,11 @@ Here is my CV for your reference!
 
 
 ## Career
-- **Research Student** in PADA Lab, Kwangwoon University (2024.01 ~)
+- **Research Student** in PADA Lab, Kwangwoon University (2024.01 ~ 2025.02)
 
 ## Educations
-- **Kwangwoon University** (2019.03 ~)
+- **Kwangwoon University** (2019.03 ~ 2025.02)
 - **Daejin High School** (2016.03 ~ 2019.02)
-
-## Projects
-[![image](https://github.com/user-attachments/assets/f96e4344-879e-4231-a530-85f5395f4bdd)](https://github.com/swh9534/ProcessTree-Embedding/tree/main)
-[![image](https://github.com/user-attachments/assets/806183a5-ae8a-4074-825b-4e62fdb9a4f5)](https://github.com/swh9534/CP-Model/tree/main)
 
 
 <div>

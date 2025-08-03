@@ -3,17 +3,6 @@
 I am **AI developer** focused on **Generative AI** and **Large Language Models** (LLMs),<br/>
 with additional experience in **Data Science/Analytics**.<br/>
 
-## Contact
-<div>
-<a href="mailto:asw9234hi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-</a> 
-<a href="https://velog.io/@blueno/posts" target="_blank">
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
-</a> 
-</div>
-
-
 ## Educations
 - **SKALA Generative** AI Developer course (2025.02 ~ 2025.07) 
 - **Kwangwoon University** Information Convergence Data Science (2019.03 ~ 2025.02)
